@@ -5,3 +5,4 @@ vim.cmd("set shiftwidth=4")
 vim.cmd("set relativenumber")
 vim.g.mapleader= " "
 
+vim.keymap.set('n', ';', ':', {})
